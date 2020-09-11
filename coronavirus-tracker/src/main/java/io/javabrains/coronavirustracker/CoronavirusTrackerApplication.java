@@ -1,13 +1,13 @@
-package com.example.demo;
+package io.javabrains.coronavirustracker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class CoronavirusTrackerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(CoronavirusTrackerApplication.class, args);
 	}
 
 }
