@@ -1,6 +1,6 @@
 # Covid-19 Tracker Application
 
-## Technologies which I use
+## Technologies used in the project
 * Spring Boot (Thymeleaf, SpringBoot Web)
 * Java
 * HTML
